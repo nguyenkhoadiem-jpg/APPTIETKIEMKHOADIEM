@@ -62,14 +62,6 @@
     </style>
 </head>
 <body>
-    <audio id="myAudio" controls>
-        <source src="Music/Nhạc Xổ Số - Masew (Original Remix).mp3" type="audio/mpeg">
-      </audio>
-      
-      <script>
-        var audio = document.getElementById("myAudio");
-        audio.autoplay = true;
-      </script>
     <h1>Ứng dụng tiết kiệm tiền CON HEO ĐẤT</h1>
 
     <img class="savings-image" src="Heo.jpg" alt="Savings Image">
